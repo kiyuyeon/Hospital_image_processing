@@ -1,1 +1,13 @@
 streamlit
+opencv-python-headless
+pillow
+numpy
+matplotlib
+tensorflow==2.16.1
+keras
+scikit-learn
+pandas
+seaborn
+albumentations
+lifelines
+shap
